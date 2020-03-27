@@ -580,6 +580,11 @@ social:
     domains:
       - forums.whirlpool.net.au
 
+  Slack:
+    domains:
+      - app.slack.com
+      - slack-redir.net
+
 # #######################################################################################################
 #
 # SEARCH PROVIDERS
